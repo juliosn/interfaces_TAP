@@ -1,0 +1,14 @@
+{
+    "name": "julio/tap_mensageiros",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Júlio Neves"
+        }
+    ],
+    "require": {}
+}
