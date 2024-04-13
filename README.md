@@ -21,5 +21,4 @@ Para utilizar o interfaces_TAP, utilize os seguintes comandos no prompt de coman
 - cd TAP_Mensageiros OU cd TAP_RPG
 - composer install
 - composer dumpautoload -o
-- *Caso queira executar no terminal:* php index.php
-- *Caso queira executar em um servidor web:* php -S localhost:8000 (Obs.: Em seguida, insira na URL: 'http://localhost:8000/')
+- Executando o projeto: php index.php
